@@ -1,2 +1,1 @@
-안녕하세요.
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<H3>Hi there👋, I'm Giwoong😎</H3>
